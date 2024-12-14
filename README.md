@@ -3,3 +3,4 @@
 
  NOTES:For this project to work, please put head and neck region videos of healthy and parkinsonian individuals in the \dataset\healthy_head and \dataset\parkinsons_head folders, respectively. The type of videos required is indicated in the figure.
  
+![PARKİNSON_videoformat](https://github.com/user-attachments/assets/2f9d8626-67e3-47fd-8bfe-16c412acced5)
